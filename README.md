@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @creativeCon
+- 👋 Hi, I’m Rajendra Parhi
 - 👀 I’m interested in JavaScript
-- 🌱 I’m currently learning Angular
+- 🌱 I’m currently exploring Angular
 - 📫 Email: rajendra4uparhi@gmail.com
 
 <!---
